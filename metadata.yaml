@@ -1,0 +1,28 @@
+_repo: Union-and-Democracy_22461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_issued: '2007-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22461'
+  lccn: '15008140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History -- 1783-1865'
+title: Union and Democracy
+url: http://www.gutenberg.org/ebooks/22461
