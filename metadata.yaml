@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22461#Union-and-Democracy
 gutenberg_issued: '2007-08-30'
 gutenberg_type: Text
 identifiers:
